@@ -1,5 +1,5 @@
 import socket
-ip_port=('117.169.85.188',8080)
+ip_port=('127.0.0.1',8080)
 BUFSIZE=1024
 s=socket.socket(socket.AF_INET,socket.SOCK_STREAM)
 
